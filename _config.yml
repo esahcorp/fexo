@@ -211,10 +211,10 @@ link:
 
 
 project:
-  # - type: personal
-    # name: fexo
-    # url: https://github.com/forsigner/fexo
-    # intro: A minimalist design theme for hexo
+  - type: personal
+    name: Translate
+    url: https://github.com/esahcorp/Translate
+    intro: A simple java se project
   # - type: company
   #   name: Fexo
   #   url: https://github.com/forsigner/fexo
